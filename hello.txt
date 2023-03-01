@@ -1,3 +1,2 @@
 Hello from Learn linux TV
-This is another line
 
